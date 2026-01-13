@@ -1,7 +1,3 @@
-⚠️ <b>NOTICE !!</b><br />
-The issues page has been retired due to someone who dared to mention Charms Bar Reloaded due to my PC not returning. Ugh, Gordon H-Man… First a bad dream and I wake up to see a flamewar on the Issues category threatening to move to Charms Bar Reloaded. Do they NOT understand that this project stole my work and my PC is coming all the way from NYC to California?! Go get a grip, @LazytownSpo666.
-
-<hr />
 <p align="center">
 <img id="charmsbarPort" src="resource/logo.png"/>
 </p>
