@@ -1,4 +1,3 @@
-
 ## Contents
 - [About](#about)
 - [Why was this created?](#why-was-this-created)
