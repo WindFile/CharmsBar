@@ -7,10 +7,7 @@
 - [Features](#features)
 - [Supported languages](#supported-languages)
 - [Screenshots](#screenshots)
-- [Q&As](#qas)
-- [Disclamer](#disclaimer)
-- [Support](#support)
-  
+
 ## About
 <b>Charms Bar Port</b> will help you bring back the Windows 8.x Charms Bar to Windows 10 and Windows 11, using real files from Windows 8.x to enhance your Windows environment and relive the Windows 8.x days. As the name suggests, it's a 1:1 conversion of the infamous Charms Bar with new features and hotfixes from the original.
 
@@ -49,15 +46,14 @@ On touch screens, swipe from the right edge towards to bring up the Charms Bar. 
 * Switch between Win32 and Metro modes for the currently-focused program
 
 ## Supported languages
-* English (United States, India, or United Kingdom
+* English (United States, India, or United Kingdom)
 
 ## How it looks
 <img src="resource/preview.png"/>
 <img src="resource/previewdark.png"/>
 <img src="resource/previewhighcontrast.png"/>
 
-#### Suggestions & Bug Report
-Suggest new features or file bug reports to improve Charms Bar Port, [learn more...](https://github.com/WindFile/CharmsBar/issues)
 
-#### Spread the word
-Star this repository, leave a review of the program anywhere on your website or share it to others that want the Windows 8 experience back!
+## Disclamier
+I am not fully affiliated with Microsoft. I don't suggest you to download this on your device that does not meet the requirements.
+If you want to install it on Windows 7 or Vista, you must find another third-party tools to install. On 8 and 8.1, Charms Bar is fully active on your system.
