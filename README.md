@@ -17,10 +17,10 @@
 Forked and completely edited from <a href="https://github.com/Jerhynh/CharmsBarRevived">CharmsBarRevived</a>, <b>Charms Bar Port</b> will assist on helping any Charms Bar fan make the jump from Windows 8.1 to Windows 10 or Windows 11, without having to stay on the obsolete operating system forever...
 
 ## Why was this created?
-In December 17, 2014 and October 5, 2021, Microsoft made the annoucement to completely kill off the Charms Bar in Windows 10 and 11. There used to be ways to restore it in the old days using ValiiNet Charms, PopCharms, and RocketDock.
+In December 17, 2014 and October 5, 2021, Microsoft made the annoucement to completely remove the Charms Bar in Windows 10 and 11. There used to be ways to restore it in the old years (2015-2021) using ValiiNet Charms, PopCharms, and RocketDock.
 
 
-ValiNet Charms as of 2025 is no longer available to download, PopCharms was only meant to be used between Windows 10 build 9780 and Windows 10 build 9913, and RocketDock is <b>very</b> outdated, so this project was created primarily to bring for needs of a Charms Bar back.
+But now, ValiNet Charms is no longer available to download since 2025 and 2026, PopCharms was only meant to be used between Windows 10 build 9780 and Windows 10 build 9913 (those versions are currently outdated), and RocketDock is <b>very</b> outdated, so this project was created primarily to bring for needs of a Charms Bar back.
 
 ## How does it work?
 On touch screens, swipe from the right edge towards to bring up the Charms Bar. If you're a mouse user, swipe to the top right corner and drag your cursor down to open the Charms Bar. You can also use the keyboard shortcut Windows key + C, just like it was on Windows 8 and 8.1. Included in the Charms Bar are:
@@ -34,6 +34,7 @@ On touch screens, swipe from the right edge towards to bring up the Charms Bar. 
 
 ## Requirements
 * Windows 10 or Windows 11
+* NET.7
 ## Features
 * Formatting-aware (uses the OS' time and date formats. If you are using 24-hour and/or date formats like "MM/DD/YYYY", Charms Bar Port will use that format. Custom formats not supported yet)
 * Language-aware (automatically switches depending on your OS language)
