@@ -1,8 +1,4 @@
-<p align="center">
-<img id="charmsbar" src="resource/logo.png"/>
-</p>
-<hr />
-<blockquote>
+
 
 
 [![GitHub release](https://img.shields.io/github/release/Icepenguins101/charms-bar-port/all.svg)](https://github.com/Icepenguins101/charms-bar-port/releases)
