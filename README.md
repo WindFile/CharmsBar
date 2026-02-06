@@ -1,5 +1,5 @@
 <p align="center">
-<img id="charmsbarPort" src="resource/logo.png"/>
+<img id="charmsbar" src="resource/logo.png"/>
 </p>
 <hr />
 <blockquote>
