@@ -8,7 +8,7 @@
 - [Screenshots](#screenshots)
 
 ## About
-<b>Charms Bar Port</b> will help you bring back the Windows 8.x Charms Bar to Windows 10 and Windows 11, using real files from Windows 8.x to enhance your Windows environment and relive the Windows 8.x days. As the name suggests, it's a 1:1 conversion of the infamous Charms Bar with new features and hotfixes from the original.
+<b>Charms Bar Port</b> will help you bring back the Windows 8 Charms Bar to Windows 10 and Windows 11, using files from Windows 8 to enhance your Windows environment and relive the Windows 8 days.
 
 ## Why was this created?
 In December 17, 2014 and October 5, 2021, Microsoft made the annoucement to completely remove the Charms Bar in Windows 10 and 11. There used to be ways to restore it in the old years (2015-2021) using ValiiNet Charms, PopCharms, and RocketDock.
