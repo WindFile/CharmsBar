@@ -28,7 +28,7 @@ On touch screens, swipe from the right edge towards to bring up the Charms Bar. 
 
 ## Requirements
 * Windows 10 or Windows 11
-* NET.7
+* .NET 7
 ## Features
 * Formatting-aware (uses the OS' time and date formats. If you are using 24-hour and/or date formats like "MM/DD/YYYY", Charms Bar Port will use that format. Custom formats not supported yet)
 * Language-aware (automatically switches depending on your OS language)
