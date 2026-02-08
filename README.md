@@ -14,7 +14,7 @@
 In December 17, 2014 and October 5, 2021, Microsoft made the annoucement to completely remove the Charms Bar in Windows 10 and 11. There used to be ways to restore it in the old years (2015-2021) using ValiiNet Charms, PopCharms, and RocketDock.
 
 
-But now, ValiNet Charms is no longer available to download since 2025 and 2026, PopCharms was only meant to be used between Windows 10 build 9780 and Windows 10 build 9913 (those versions are currently outdated), and RocketDock is <b>very</b> outdated, so this project was created primarily to bring for needs of a Charms Bar back.
+But now, ValiNet Charms is no longer available to download since 2025 and 2026, PopCharms was only meant to be used between Windows 10 build 9780 and Windows 10 build 9913 (those versions are currently outdated), and RocketDock is <b>very</b> outdated, so this project was created primarily to tablet and desktop users.
 
 ## How does it work?
 On touch screens, swipe from the right edge towards to bring up the Charms Bar. If you're a mouse user, swipe to the top right corner and drag your cursor down to open the Charms Bar. You can also use the keyboard shortcut Windows key + C, just like it was on Windows 8 and 8.1. Included in the Charms Bar are:
